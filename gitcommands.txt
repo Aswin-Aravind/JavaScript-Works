@@ -1,0 +1,10 @@
+Basic git commands
+
+1)git init -> initializing git repository in pwd
+
+2)git status -> list all untracked files
+
+3)git add -A -> adding untracked  files to staging accurate
+
+4)git commit -m "commit message" -> adding staged files into local repository
+

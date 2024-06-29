@@ -1,0 +1,3 @@
+datatypes -> string,boolean,number,null,undefined
+
+api key: c583a25dcbc74403b8bf85073d9750eb
